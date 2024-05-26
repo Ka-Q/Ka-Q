@@ -3,6 +3,6 @@
 
 I'm a backend minded developer located in Kuopio, Finland.
 
-I'm currently studying computer science at the University of Eastern Finland and looking opportunities in the field of Web Development.
+I'm currently studying computer science at the University of Eastern Finland and working as a Software Developer.
 
-Have an offer, or just want to chat? You can [contact me here](https://about.akulaurila.com/#contact)
+You can [contact me here](https://about.akulaurila.com/#contact)
